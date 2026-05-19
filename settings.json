@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "AdminumSMP.aternos.me",
-    "port": 19121,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -65,7 +65,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
