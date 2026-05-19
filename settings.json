@@ -8,7 +8,7 @@
   "server": {
     "ip": "AdminumSMP.aternos.me",
     "port": 25565,
-    "version": 26.1,
+    "version": 26.1.2,
     "try-creative": false
   },
   "position": {
